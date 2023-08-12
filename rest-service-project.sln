@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest-service-project", "rest-service-project.csproj", "{CA9DE190-BCF2-40CB-8920-1488CF0179E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rest-service-project", "rest-service-project.csproj", "{CA9DE190-BCF2-40CB-8920-1488CF0179E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest-service-project.Tests", "..\rest-service-project.Tests\rest-service-project.Tests.csproj", "{F50212C5-B561-431F-AF29-58E6CB318C23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CA9DE190-BCF2-40CB-8920-1488CF0179E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA9DE190-BCF2-40CB-8920-1488CF0179E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA9DE190-BCF2-40CB-8920-1488CF0179E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50212C5-B561-431F-AF29-58E6CB318C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50212C5-B561-431F-AF29-58E6CB318C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50212C5-B561-431F-AF29-58E6CB318C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50212C5-B561-431F-AF29-58E6CB318C23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
