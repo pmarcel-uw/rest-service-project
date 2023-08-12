@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "YffiffuAiw1flIMACbSRWPe/txc89mA0FpdqyhsLWvow9y5Z1FhuR83B/LXE5YK4aENvPuwTrX6mAXh04ae9Ow==",
+  "dgSpecHash": "LfFf/sRlZQZFnER1cdqBgN1fNbVYRCSz2kChdSVGdVRtMNnH/Cpv1dPRU47Tl4gNUlXkE4vebKZtTYnTZ4W4lA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pablo\\source\\repos\\rest-service-project\\rest-service-project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pablo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
